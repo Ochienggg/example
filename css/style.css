@@ -7,3 +7,11 @@ h1{
 h3{
     color: aquamarine;
 }
+
+h3{
+    color: orangered;}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
